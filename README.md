@@ -4,7 +4,7 @@
 - 🔭 I'm currently unemployed
 - 🌱 I'm currently learning Java
 - 📚 I'm attending systems analysis and Development at Uninassau 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns:She/Her
 
 <div style="display": inline_block"><br>
   <img align="center" alt="Juli-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
