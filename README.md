@@ -2,8 +2,8 @@
 
 
 - 🔭 I'm currently unemployed
-- 🌱 I’m currently learning Java
-- 📚 I am attending systems analysis and Development at Uninassau 
+- 🌱 I'm currently learning Java
+- 📚 I'm attending systems analysis and Development at Uninassau 
 - 😄 Pronouns: She/Her
 
 <div style="display": inline_block"><br>
