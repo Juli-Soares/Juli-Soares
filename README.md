@@ -1,11 +1,5 @@
 ### Hello, I'm Juliana👋
 
-
-- 🔭 I'm currently unemployed
-- 🌱 I'm currently learning Java
-- 📚 I'm attending systems analysis and Development at Uninassau 
-- 😄 Pronouns:She/Her
-
 <p align="center">
   <img align="center" alt="Juli-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Juli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
